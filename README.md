@@ -1,2 +1,2 @@
-# mockAPI
-mockAPI
+# mockAPIs
+mockAPIs
